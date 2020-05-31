@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-Hola mundo, se vieron el lanzamiento espacial 
+Hola mundo, este repositorio a sido creado usando la guía:
+https://guides.github.com/activities/hello-world/
